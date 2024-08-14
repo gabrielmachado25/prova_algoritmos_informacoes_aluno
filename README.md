@@ -1,2 +1,2 @@
 # prova_algoritmos_informacoes_aluno
-Prova de Algoritmos no primeiro semestre do Curso de Ciências da Computação na Universidade Feevale. Um código que recebesse o nome, endereço e número de matrícula de 10 alunos e no final imprimisse os dados armazenados.
+Prova de Algoritmos no primeiro semestre do Curso de Ciências da Computação na Universidade Feevale. Na questão 1 foi solicitado um código que recebesse o nome, endereço e número de matrícula de 10 alunos e no final imprimisse os dados armazenados. Já na questão 2 foi solicitado um código que recebesse as temperaturas de hora em hora e no final imprimisse a temperatura máxima e a mínima encontradas.
